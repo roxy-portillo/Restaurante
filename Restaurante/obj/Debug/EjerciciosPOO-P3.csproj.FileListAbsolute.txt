@@ -1,0 +1,10 @@
+C:\Users\shini\Desktop\EjerciciosPOO-P3\obj\Debug\EjerciciosPOO-P3.csproj.CoreCompileInputs.cache
+C:\Users\shini\Desktop\EjerciciosPOO-P3\bin\Debug\EjerciciosPOO-P3.exe.config
+C:\Users\shini\Desktop\EjerciciosPOO-P3\bin\Debug\EjerciciosPOO-P3.exe
+C:\Users\shini\Desktop\EjerciciosPOO-P3\bin\Debug\EjerciciosPOO-P3.pdb
+C:\Users\shini\Desktop\EjerciciosPOO-P3\obj\Debug\EjerciciosPOO-P3.exe
+C:\Users\shini\Desktop\EjerciciosPOO-P3\obj\Debug\EjerciciosPOO-P3.pdb
+C:\Users\shini\Desktop\EjerciciosPOO-P3\obj\Debug\EjerciciosPOO-P3.csprojAssemblyReference.cache
+C:\Users\shini\Desktop\EjerciciosPOO-P3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shini\Desktop\EjerciciosPOO-P3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shini\Desktop\EjerciciosPOO-P3\obj\Debug\EjerciciosPOO-P3.csproj.CopyComplete

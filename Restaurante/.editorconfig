@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS2001: No se encontró el archivo de origen 'C:\Users\shini\Desktop\EjerciciosPOO-P3\Trainer.cs'.
+dotnet_diagnostic.CS2001.severity = silent
